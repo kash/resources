@@ -5,7 +5,7 @@ A list of useful resources for web developers and designers. Feel free to `CMD +
 
 **Color**
 
-Tags: hue, gradient
+*Tags: hue, gradient*
 
 - [Colorful](https://github.com/Siddharth11/Colorful) - List of resources for everything color related
 - [coolHue](https://webkul.github.io/coolhue/) - Handpicked gradients.
@@ -21,7 +21,7 @@ Tags: hue, gradient
 
 **Web Dev Apps**
 
-Tags: website, development, apps, IDE, editor
+*Tags: website, development, apps, IDE, editor*
 
 - [Expressions](http://www.apptorium.com/products/expressions) - App to play with regular expressions ($3.99).
 - [Setapp](https://setapp.com/) - Dozens of useful apps ($9.99/mo).
@@ -35,13 +35,13 @@ Tags: website, development, apps, IDE, editor
 
 **Libraries and Frameworks**
 
-Tags: JavaScript, NPM, Node
+*Tags: JavaScript, NPM, Node*
 
 ---
 
 **Payment Processing**
 
-Tags: money, euro, dollar, process, payments
+*Tags: money, euro, dollar, process, payments*
 
 - [Stripe](https://stripe.com) - Secure online transaction. 2.9% + 30¢ per transaction.
 - [Plasso](https://plasso.com/) - Similar to Stripe. 4% per transaction or $49/mo and 1% per transaction.
@@ -51,7 +51,7 @@ Tags: money, euro, dollar, process, payments
 
 **Educational**
 
-Tags: Learn, how to,  teach
+*Tags: Learn, how to,  teach*
 
 - [Github Open Source](https://github.com/open-source) - Learn about and contribute to open source projects.
 - [Github Education](https://education.github.com/) - Discounts/resources for students.
@@ -60,7 +60,7 @@ Tags: Learn, how to,  teach
 
 **Dev Ops**
 
-Tags: Server, computation, hosting, storage
+<sup>Tags: Server, computation, hosting, storage</sup>
 
 - [Digital Ocean](https://www.digitalocean.com) - Web hosting.
 - [Heroku](https://heroku.com) - Simple solution for web hosting.
