@@ -1,8 +1,10 @@
+# Resources for Web Developers and Designers
 A list of useful resources for web developers and designers. Feel free to `CMD + F`  to search for things like color, payments, etc. I’ve tagged different sections with keywords to make searching easier. Feel free to send me more resources to add by emailing me (me@kash.cm) or making a pull request.
 
 ---
 
 **Color**
+
 Tags: hue, gradient
 
 - [Colorful](https://github.com/Siddharth11/Colorful) - List of resources for everything color related
@@ -18,6 +20,7 @@ Tags: hue, gradient
 ---
 
 **Web Dev Apps**
+
 Tags: website, development, apps, IDE, editor
 
 - [Expressions](http://www.apptorium.com/products/expressions) - App to play with regular expressions ($3.99).
@@ -31,11 +34,13 @@ Tags: website, development, apps, IDE, editor
 ---
 
 **Libraries and Frameworks**
+
 Tags: JavaScript, NPM, Node
 
 ---
 
 **Payment Processing**
+
 Tags: money, euro, dollar, process, payments
 
 - [Stripe](https://stripe.com) - Secure online transaction. 2.9% + 30¢ per transaction.
@@ -45,6 +50,7 @@ Tags: money, euro, dollar, process, payments
 ---
 
 **Educational**
+
 Tags: Learn, how to,  teach
 
 - [Github Open Source](https://github.com/open-source) - Learn about and contribute to open source projects.
@@ -53,6 +59,7 @@ Tags: Learn, how to,  teach
 ---
 
 **Dev Ops**
+
 Tags: Server, computation, hosting, storage
 
 - [Digital Ocean](https://www.digitalocean.com) - Web hosting.
@@ -62,6 +69,7 @@ Tags: Server, computation, hosting, storage
 ---
 
 **Clean Sites**
+
 These are just some sites that look really nice. Great for getting design inspiration from.
 
 - [Stripe](https://stripe.com)
