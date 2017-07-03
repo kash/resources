@@ -58,8 +58,7 @@ A list of useful resources for web developers and designers. Feel free to `CMD +
 
 ---
 
-**Dev Ops**
-
+**Dev Ops** 
 <sup>Tags: Server, computation, hosting, storage</sup>
 
 - [Digital Ocean](https://www.digitalocean.com) - Web hosting.
