@@ -3,25 +3,24 @@ A list of useful resources for web developers and designers. Feel free to `CMD +
 
 ---
 
-**Color**
-
-*Tags: hue, gradient*
+**Color**<br>
+<sup>Tags: hue, gradient</sup>
 
 - [Colorful](https://github.com/Siddharth11/Colorful) - List of resources for everything color related
 - [coolHue](https://webkul.github.io/coolhue/) - Handpicked gradients.
 
 ---
 
-**Design**
+**Design**<br>
+<sup>Tags: Illustrator, Photoshop, logo, color</sup>
 
 - [Sketch](https://www.sketchapp.com/) - Popular design too. Great tool for mockup up app and designing logos ($99).
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Illustrator alternative. Very powerful design tool.
 
 ---
 
-**Web Dev Apps**
-
-*Tags: website, development, apps, IDE, editor*
+**Web Dev Apps**<br>
+<sup>Tags: website, development, apps, IDE, editor</sup>
 
 - [Expressions](http://www.apptorium.com/products/expressions) - App to play with regular expressions ($3.99).
 - [Setapp](https://setapp.com/) - Dozens of useful apps ($9.99/mo).
@@ -33,15 +32,13 @@ A list of useful resources for web developers and designers. Feel free to `CMD +
 
 ---
 
-**Libraries and Frameworks**
-
-*Tags: JavaScript, NPM, Node*
+**Libraries and Frameworks**<br>
+<sup>Tags: JavaScript, NPM, Node</sup>
 
 ---
 
-**Payment Processing**
-
-*Tags: money, euro, dollar, process, payments*
+**Payment Processing**<br>
+<sup>Tags: money, euro, dollar, process, payments</sup>
 
 - [Stripe](https://stripe.com) - Secure online transaction. 2.9% + 30¢ per transaction.
 - [Plasso](https://plasso.com/) - Similar to Stripe. 4% per transaction or $49/mo and 1% per transaction.
@@ -49,16 +46,15 @@ A list of useful resources for web developers and designers. Feel free to `CMD +
 
 ---
 
-**Educational**
-
-*Tags: Learn, how to,  teach*
+**Educational**<br>
+<sup>Tags: Learn, how to,  teach</sup>
 
 - [Github Open Source](https://github.com/open-source) - Learn about and contribute to open source projects.
 - [Github Education](https://education.github.com/) - Discounts/resources for students.
 
 ---
 
-**Dev Ops** 
+**Dev Ops**<br>
 <sup>Tags: Server, computation, hosting, storage</sup>
 
 - [Digital Ocean](https://www.digitalocean.com) - Web hosting.
