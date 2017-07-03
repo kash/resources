@@ -17,6 +17,8 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 - [Postman](https://www.getpostman.com/) - Make GET, POST, etc. requests to a site. Makes creating APIs easier.
 - [Bear](http://www.bear-writer.com/) - Markdown notes on Mac, iPhone, and iPad.
 - [Notion](https://www.notion.so/) - Team note-taking app.
+- [Hyper](https://hyper.is/) - Hackable JS/HTML/CSS Terminal.
+- [GitKraken](https://www.gitkraken.com/) - Git GUI for Mac, Windows and Linux.
 
 ---
 
