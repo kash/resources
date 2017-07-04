@@ -30,8 +30,8 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 - [Sketch](https://www.sketchapp.com/) - Popular design tool. Great tool for mockup up app and designing logos ($99).
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Illustrator alternative ($39.99).
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Photoshop alternative ($39.99).
-- [AllTheFreeStock](http://allthefreestock.com/) - Get all the Free Images 📷, Videos 📹, Music 🎼, Icons and more in one location.
-- [CodeMyUI](https://codemyui.com/) - Handpicked code snippets you can use in your web projects. Find website design inspiration with code samples.
+- [AllTheFreeStock](http://allthefreestock.com/) - Free images, video, music and icons. All in one place.
+- [CodeMyUI](https://codemyui.com/) - Handpicked code snippets you can use in your web projects.
 - [Unsplash](https://unsplash.com) - Free, high-quality images.
 - [Wesaturate](https://wesaturate.com) - Free RAW and JPG images.
 - [InVision](https://www.invisionapp.com/) - Design prototyping tool
