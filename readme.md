@@ -26,7 +26,7 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 **Design and Color**<br>
 <sup>Tags: Illustrator, Photoshop, logo, color</sup>
 
-- [Sketch](https://www.sketchapp.com/) - Popular design too. Great tool for mockup up app and designing logos ($99).
+- [Sketch](https://www.sketchapp.com/) - Popular design tool. Great tool for mockup up app and designing logos ($99).
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Illustrator alternative ($39.99).
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Photoshop alternative ($39.99).
 - [AllTheFreeStock](http://allthefreestock.com/) - Get all the Free Images 📷, Videos 📹, Music 🎼, Icons and more in one location.
