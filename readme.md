@@ -26,15 +26,17 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 <sup>Tags: Illustrator, Photoshop, logo, color</sup>
 
 - [Sketch](https://www.sketchapp.com/) - Popular design too. Great tool for mockup up app and designing logos ($99).
-- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Illustrator alternative. Very powerful design tool.
+- [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Illustrator alternative ($39.99).
+- [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Photoshop alternative ($39.99).
 - [Unsplash](https://unsplash.com) - Free, high-quality images.
 - [Wesaturate](https://wesaturate.com) - Free RAW and JPG images.
 - [InVision](https://www.invisionapp.com/) - Design prototyping tool
 - [Colorful](https://github.com/Siddharth11/Colorful) - List of resources for everything color related
 - [coolHue](https://webkul.github.io/coolhue/) - Handpicked gradients.
 - [Figma](https://www.figma.com/) - Collaborative interface design tool.
-- [Iconfinder](https://www.iconfinder.com/) - 1.7 million+ icons (free and paid)
-- [Sip](http://sipapp.io/) - Color picker app for Mac
+- [Iconfinder](https://www.iconfinder.com/) - 1.7 million+ icons (free and paid).
+- [Sip](http://sipapp.io/) - Color picker app for Mac.
+- [Paletton](http://paletton.com/) - Color pallette and picker.
 
 ---
 
