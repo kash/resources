@@ -10,6 +10,7 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 - [Setapp](https://setapp.com/) - Dozens of useful apps ($9.99/mo).
 - [Numi](https://numi.io/) - Simple, beautiful calculator app.
 - [WebStorm](https://www.jetbrains.com/webstorm/) - Powerful JavaScript IDE ($129/yr. Free for students).
+- [Visual Studio](https://code.visualstudio.com/) - Smart and customizeable IDE.
 - [Atom](https://atom.io/) - Text editor made by GitHub.
 - [Sublime Text](https://www.sublimetext.com/) - Popular text editor (Free, but popups unless you pay $70).
 - [Electron](https://electron.atom.io/) - Build desktop apps with JavaScript, HTML, and CSS.
