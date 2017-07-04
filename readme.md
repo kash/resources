@@ -70,7 +70,7 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 <sup>Tags: money, euro, dollar, process, payments</sup>
 
 - [Stripe](https://stripe.com) - Secure online transaction. 2.9% + 30¢ per transaction.
-- [Plasso](https://plasso.com/) - Similar to Stripe. 4% per transaction or $49/mo and 1% per transaction.
+- [Plasso](https://plasso.com/) - Plasso is built on Stripe. All transactions are subject to Stripe’s additional transaction fee.
 - [PayPal](https://www.paypal.com/lt/webapps/mpp/express-checkout) - Transaction fees vary. See their page.
 - [Stackshare](https://stackshare.io) - See what technology different companies use.
 - [Digital Ocean](https://www.digitalocean.com) - Web hosting.
