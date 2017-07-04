@@ -86,7 +86,7 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 - [Pingdom](https://www.pingdom.com/) - Website performance monitoring.
 - [SendGrid](https://sendgrid.com/) - Send transactional and marketing emails.
 - [Buffer](https://buffer.com/) - Social media management software
-- [Mailgun](https://www.mailgun.com) - Email service for app automated emailing with http api.
+- [Mailgun](https://www.mailgun.com) - Email service for sending automated emails, has an easy to use http api.
 
 ---
 
