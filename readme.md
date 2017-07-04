@@ -20,6 +20,7 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 - [Hyper](https://hyper.is/) - Hackable JS/HTML/CSS Terminal.
 - [GitKraken](https://www.gitkraken.com/) - Git GUI for Mac, Windows and Linux.
 - [Vim](http://www.vim.org) - Extremely popular unix command line text editor.
+- [CodeKit](https://codekitapp.com/) - Build websites faster and better. Automatic browser refresh.
 
 ---
 
