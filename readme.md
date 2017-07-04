@@ -19,6 +19,7 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 - [Notion](https://www.notion.so/) - Team note-taking app.
 - [Hyper](https://hyper.is/) - Hackable JS/HTML/CSS Terminal.
 - [GitKraken](https://www.gitkraken.com/) - Git GUI for Mac, Windows and Linux.
+- [Vim](http://www.vim.org) - Extremely popular unix command line text editor.
 
 ---
 
@@ -85,6 +86,7 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 - [Pingdom](https://www.pingdom.com/) - Website performance monitoring.
 - [SendGrid](https://sendgrid.com/) - Send transactional and marketing emails.
 - [Buffer](https://buffer.com/) - Social media management software
+- [Mailgun](https://www.mailgun.com) - Email service for sending automated emails, has an easy to use http api.
 
 ---
 
