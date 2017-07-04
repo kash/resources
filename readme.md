@@ -28,6 +28,8 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 - [Sketch](https://www.sketchapp.com/) - Popular design too. Great tool for mockup up app and designing logos ($99).
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Illustrator alternative ($39.99).
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Photoshop alternative ($39.99).
+- [AllTheFreeStock](http://allthefreestock.com/) - Get all the Free Images 📷, Videos 📹, Music 🎼, Icons and more in one location.
+- [CodeMyUI](https://codemyui.com/) - Handpicked code snippets you can use in your web projects. Find website design inspiration with code samples.
 - [Unsplash](https://unsplash.com) - Free, high-quality images.
 - [Wesaturate](https://wesaturate.com) - Free RAW and JPG images.
 - [InVision](https://www.invisionapp.com/) - Design prototyping tool
@@ -97,6 +99,8 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 - [JetBrains for Students](https://www.jetbrains.com/student/) - Free apps!
 - [400+ Free Resources for your business](http://growthsupply.com/free/all/)
 - [Discounts for Students](https://github.com/AchoArnold/discount-for-student-dev/blob/master/README.md)
+- [Best SEO Tools](https://saijogeorge.com/best-marketing-tools/) - A handpicked list of SEO and Marketing tools.
+- [Google Search Cheat Sheet](https://supple.com.au/tools/google-advanced-search-operators/) - Handpicked collection of advance search operators and URL modifiers from Google.
 
 ---
 
