@@ -117,6 +117,7 @@ These are just some sites that look really nice. Great for getting design inspir
 - [Algolia](https://www.algolia.com/)
 - [OpenAI](https://openai.com/)
 - [airbnb.design](https://airbnb.design/)
+- [Github Open Source Guides](https://opensource.guide/)
 
 ---
 
