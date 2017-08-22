@@ -31,6 +31,7 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 - [Sketch](https://www.sketchapp.com/) - Popular design tool. Great tool for mockup up app and designing logos ($99).
 - [Affinity Designer](https://affinity.serif.com/en-us/designer/) - Illustrator alternative ($39.99).
 - [Affinity Photo](https://affinity.serif.com/en-us/photo/) - Photoshop alternative ($39.99).
+- [Free SVG Maps](https://www.amcharts.com/svg-maps/) - SVG of all the countries and their cities.
 - [AllTheFreeStock](http://allthefreestock.com/) - Free images, video, music and icons. All in one place.
 - [CodeMyUI](https://codemyui.com/) - Handpicked code snippets you can use in your web projects.
 - [Unsplash](https://unsplash.com) - Free, high-quality images.
