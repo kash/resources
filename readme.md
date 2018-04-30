@@ -1,5 +1,5 @@
 # Resources for Web Developers, Designers, and Startups
-A list of useful resources for web developers and designers. Use  `CMD + F`  to search for things like color, payments, etc. I’ve tagged different sections with keywords to make searching easier. Feel free to send me more resources to add by emailing me (me@kash.cm) or by making a pull request.
+A list of useful resources for web developers and designers. Use  `CMD + F`  to search for things like color, payments, etc. I’ve tagged different sections with keywords to make searching easier. Feel free to send me more resources to add by emailing me (kash@pairso.com) or by making a pull request.
 
 ---
 
