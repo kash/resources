@@ -16,6 +16,7 @@ A list of useful resources for web developers and designers. Use  `CMD + F`  to 
 - [Electron](https://electron.atom.io/) - Build desktop apps with JavaScript, HTML, and CSS.
 - [Slack](https://slack.com) - Team communication tool.
 - [Postman](https://www.getpostman.com/) - Make GET, POST, etc. requests to a site. Makes creating APIs easier.
+- [Argonaut](https://argonaut.dev/?utm_source=kash-resources&utm_medium=rsrc) - Deploy apps and infrastructure on your cloud in minutes. Support for custom and third-party app deployments on Kubernetes and Lambda environments.
 - [Bear](http://www.bear-writer.com/) - Markdown notes on Mac, iPhone, and iPad.
 - [Notion](https://www.notion.so/) - Team note-taking app.
 - [Hyper](https://hyper.is/) - Hackable JS/HTML/CSS Terminal.
